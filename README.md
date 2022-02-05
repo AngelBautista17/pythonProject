@@ -1,3 +1,3 @@
 # DP221PYG3
-## algunos integrantes se ingresaran aqui
+## Integrantes
 supuestamente yasta
