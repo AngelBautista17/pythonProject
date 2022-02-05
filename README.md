@@ -1,3 +1,8 @@
 # DP221PYG3
 ## Integrantes
-supuestamente yasta
+<<<<<<< HEAD
+-Bautista Bonilla Angel 
+-Zeña Cadenas Sherlee 
+-Choque Harlam 
+-Sanchez Victor 
+-Ramos Rodrigo
