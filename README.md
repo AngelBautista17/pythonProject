@@ -1,7 +1,7 @@
 # DP221PYG3
 ## Integrantes
-*Bautista Bonilla Angel 
-*Zeña Cadenas Sherlee 
-*Choque Harlam 
-*Sanchez Victor 
-*Ramos Rodrigo
+<p>Bautista Bonilla Angel </p>
+<p>Zeña Cadenas Sherlee </p>
+<p>Choque Harlam </p>
+<p>Sanchez Victor </p>
+<p>Ramos Rodrigo</p>
